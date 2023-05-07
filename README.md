@@ -1,1 +1,0 @@
-# Algo-trading-with-NSE-stock
